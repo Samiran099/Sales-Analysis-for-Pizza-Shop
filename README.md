@@ -1,0 +1,1 @@
+"This project analyzes daily pizza sales trends to optimize revenue based on category preferences and peak ordering times. By leveraging data insights, it helps the business refine marketing strategies, manage inventory effectively, and enhance customer satisfaction—ultimately driving growth and profitability.
